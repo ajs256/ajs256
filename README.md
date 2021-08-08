@@ -9,6 +9,7 @@ I'm `ajs256` and I like to code.
 
 #### Languages I would like to learn
 * Roblox Lua 🪐
+* Java ☕️
 
 #### My Pronouns
 I prefer he/him/his pronouns, but I will not be mad at all if you get them wrong 😉
