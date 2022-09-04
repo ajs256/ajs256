@@ -13,7 +13,7 @@ I'm `ajs256` and I like to code.
 
 
 #### My Pronouns
-he/hi
+he/him
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
